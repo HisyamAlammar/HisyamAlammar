@@ -1,9 +1,4 @@
 <div align="center">
-  <img src="profile.jpeg" width="200" style="border-radius: 20px; border: 4px solid #70d1f4; box-shadow: 0 0 25px rgba(112, 209, 244, 0.6);" alt="Abyan Hisyam Al'ammar" />
-
-  <br />
-  <br />
-
   <h1>Hi, I'm <a href="https://github.com/HisyamAlammar" target="_blank" style="text-decoration: none; color: #70d1f4;">Abyan Hisyam Al'ammar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
   <a href="https://git.io/typing-svg">
